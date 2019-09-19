@@ -12,8 +12,8 @@
   </properties>
     
   <scm>
-    <connection>scm:git:git://github.com/lkratzke/mvntest1.git</connection>
-    <developerConnection>scm:git:git://github.com/lkratzke/mvntest1.git</developerConnection>
+    <connection>scm:git:git@github.com/lkratzke/mvntest1.git</connection>
+    <developerConnection>scm:git:git@github.com/lkratzke/mvntest1.git</developerConnection>
     <!--    <tag>HEAD</tag>
     <url>http://127.0.0.1/websvn/my-project</url>-->
   </scm>
