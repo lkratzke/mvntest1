@@ -10,7 +10,6 @@ package com.qp.mvntest1;
  * @author Loren Kratzke
  */
 public class Main {
-  
-  
+  // hello  
   
 }
